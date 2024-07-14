@@ -26,6 +26,7 @@ Este repositório contém o projeto do ebook "Ferramentas Essenciais para Constr
 6. [Capítulo 5: Testes de Usabilidade com Marvel](#capítulo-5-testes-de-usabilidade-com-marvel)
 7. [Capítulo 6: Do Design ao Código com Figma e React](#capítulo-6-do-design-ao-código-com-figma-e-react)
 8. [Conclusão](#conclusão)
+9. Agradecimentos
 
 ## Introdução
 
