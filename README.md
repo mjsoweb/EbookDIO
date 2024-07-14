@@ -1,8 +1,16 @@
 
 ## Prompts Utilizados com ChatGPT
-**Olá, me ajude na construção de um ebook sobre as principais ferramentas de apoio a construção de interfaces, com foco em design UI/UX e exemplos. (REGRAS) >Explique sempre de uma maneira simples e amigável; >Deixe  p texto enxuto; >Sempre traga exemplos de contextos reais e benefícios de utilizar essas ferramentas para construção de códigos e projetos; >Sempre deixe um título sugestivo por capitulos/topicos.**
-**Faça um exemplo de código utilizando as ferramentas de UX/UI **
+**Olá, me ajude na construção de um ebook sobre as principais ferramentas de apoio a construção de interfaces, com foco em design UI/UX e exemplos. 
+(REGRAS)
+>Explique sempre de uma maneira simples e amigável;
+>Deixe o texto enxuto;
+>Sempre traga exemplos de contextos reais e benefícios de utilizar essas ferramentas para construção de códigos e projetos;
+>Sempre deixe um título sugestivo por capitulos/topicos.**
+**Faça um exemplo de código utilizando as ferramentas de UX/UI**
 **Faça um readme simples para esse projeto de criação de ebook para o meu repositório do GitHub**
+
+
+<br>
 # Ebook: Ferramentas Mágicas para Interfaces:Guia Prático de Design UI/UX
 
 Este repositório contém o projeto do ebook "Ferramentas Essenciais para Construção de Interfaces UI/UX". O objetivo deste ebook é fornecer um guia prático sobre as principais ferramentas utilizadas no design de interfaces de usuário e experiências de usuário (UI/UX), com exemplos reais e benefícios.
