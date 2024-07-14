@@ -143,3 +143,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+## Ferramentas utilizadas no projeto 
+Chatgpt 
+Copilot AI
+PowerPoint
